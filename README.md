@@ -78,10 +78,8 @@ flutter run
 ### Backend
 ```bash
 cd backend
-
 # With Docker
 docker-compose up --build
-
 # Or locally (if MySQL & MinIO are running)
 npm install
 npm start
